@@ -8,9 +8,9 @@
   "stack":"heroku-24",
   "env":{
       "SESSION_ID": {
-      "description": "Paste here session id that you have scanned",
+      "description": "Bmwmd$B5SURDJY",
       "required": true,
-      "value": ""
+      "value": "Bmwmd$B5SURDJY"
     },
     "MODE": {
       "description": "Enter true for public. false for private",
